@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Release\ImageConverter.ConverterForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Release\ImageConverter.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Release\ImageConverter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\bin\Release\ImageConverter.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\bin\Release\ImageConverter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Release\ImageConverter.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Release\ImageConverter.pdb

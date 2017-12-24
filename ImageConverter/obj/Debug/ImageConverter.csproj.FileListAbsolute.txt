@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\bin\Debug\ImageConverter.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\bin\Debug\ImageConverter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Debug\ImageConverter.ConverterForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Debug\ImageConverter.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Debug\ImageConverter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Debug\ImageConverter.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ImageConverter\ImageConverter\obj\Debug\ImageConverter.pdb
+E:\Dot net technology\Azure codes\image to base64 converter\ImageConverter\ImageConverter\obj\Debug\ImageConverter.exe
+E:\Dot net technology\Azure codes\image to base64 converter\ImageConverter\ImageConverter\obj\Debug\ImageConverter.pdb
