@@ -1,0 +1,6 @@
+language: csharp
+solution: ImageConverter.sln
+install:
+  - nuget restore ImageConverter.sln
+script:
+- msbuild /p:Configuration=Release ImageConverter.sln
